@@ -1,0 +1,1 @@
+This program calculates the average of a set of numbers.

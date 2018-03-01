@@ -1,0 +1,1 @@
+A Java applet with a moving ball. Uses event handlers.
